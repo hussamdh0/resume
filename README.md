@@ -16,21 +16,21 @@ Education
 
 #### Experience
 
-- Django developer | descript, Dresden, Germany    &ensp; (MAR-20 – current)
+- **Django developer** | descript, Dresden, Germany    &ensp; (MAR-20 – current)
 
-  Tackled user experience aspects of an e-commerce website that span the whole stack, from database queries to DOM manipulation, aspects that would render control of the website by its admins ever more productive. Moreover, building shadow websites and integration functionality that allows migrations from the shadows to the currents in just the right way with simple clicks by the admins. It goes without saying that proper testing for the developed functionality was also implemented.
+Tackled user experience aspects of an e-commerce website that span the whole stack, from database queries to DOM manipulation, aspects that would render control of the website by its admins ever more productive. Moreover, building shadow websites and integration functionality that allows migrations from the shadows to the currents in just the right way with simple clicks by the admins. It goes without saying that proper testing for the developed functionality was also implemented.
 
 - **Django developer** | OPOX, Dresden, Germany       &ensp; (MAR-19 – NOV-19)
 
-  Built microservices, APIs, data models and their normalization, of a recruiting system for health care. All in cooperation with the frontend team who developed a react.js interface.
+Built microservices, APIs, data models and their normalization, of a recruiting system for health care. All in cooperation with the frontend team who developed a react.js interface.
 
 - **Micro-Services developer** | Naseej, Riyadh, KSA      &ensp;   (MAY-18 – SEP-18)
 
-  Developed a system bus for multiple integrated library systems (ILS) using the WSO2 web services framework.
+Developed a system bus for multiple integrated library systems (ILS) using the WSO2 web services framework.
 
 - **Teaching Assistant** | KFUPM, Dhahran, KSA      &ensp;    (SEP-16 – MAY-17)
 
-  Assessed students’ work and answered questions in the Computer Organization and Assembly language course, where I got many positive feedbacks.
+Assessed students’ work and answered questions in the Computer Organization and Assembly language course, where I got many positive feedbacks.
 
 
 #### Top Projects
