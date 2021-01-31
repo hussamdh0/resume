@@ -19,7 +19,7 @@ Experience
 
 - **Django developer** | descript, Dresden, Germany    &ensp; (MAR-20 – current)
 
-   - Built a service to help control versioning of PPTX files that is all in-browser accessible.
+   - Built a service to help control versioning of PPTX files that is fully accessible in-browser.
    - Tackled user experience aspects of an e-commerce website that span the whole stack, from database queries to DOM manipulation, aspects that would render control of the website by its admins ever more productive. Moreover, building shadow websites and integration functionality that allows migrations from the shadows to the currents in just the right way with simple clicks by the admins. It goes without saying that proper testing for the developed functionality was also implemented.
 
 - **Django developer** | OPOX, Dresden, Germany       &ensp; (MAR-19 – NOV-19)
