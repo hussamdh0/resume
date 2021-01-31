@@ -14,7 +14,8 @@ Education
   
     Computer Engineering / GPA: 3.66 out of 4 (2nd honors)
 
-#### Experience
+Experience
+-----
 
 - **Django developer** | descript, Dresden, Germany    &ensp; (MAR-20 – current)
 
@@ -34,7 +35,8 @@ Education
   Assessed students’ work and answered questions in the Computer Organization and Assembly language course, where I got many positive feedbacks.
 
 
-#### Top Projects
+Top Projects
+-----
 
 - **Shipments broker application** (Django, ORM, REST)     &ensp;  (JAN-20)
 
