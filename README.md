@@ -42,7 +42,7 @@ Top Projects
 
   Built a cross-platform mobile app plus data backend for a shipment broker service. That accounted to brainstorm an application idea, plan the architecture and stack, design an API that’d satisfy the set requirements of providing the proper search functionality, authentication and interfacing the developed microservices.
 
-- **Concurrent programming** (C, Parallel) papers   &ensp;  (JUN-19)
+- **Concurrent programming** (C, Parallel) [papers](https://bitbucket.org/hussam_altaleb/concurrent-papers/src/master/)   &ensp;  (JUN-19)
   
   Ran game of life and sudoku solver (recursive) algorithms on multiple CPUs using P-threads.
 
