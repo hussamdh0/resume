@@ -6,7 +6,7 @@ Hussam Altaleb
 Education
 -----
 
-- **Masters** | TU Dresden, Germany       &ensp; (OCT-18 – current)     
+- **Masters** | TU Dresden, Germany       &ensp; (OCT-18 – JUN-21)     
 
     Distributed Systems Engineering
 
